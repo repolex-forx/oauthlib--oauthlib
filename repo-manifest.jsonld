@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/oauthlib/oauthlib/commit/fa4570206dfeecb903dd0948d91bcdeaf07dfa0d",
       "git:hexsha": "fa4570206dfeecb903dd0948d91bcdeaf07dfa0d",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T05:04:30.499883+00:00"
     },
     {
       "@id": "https://repolex.ai/r/oauthlib/oauthlib/commit/8f060a0c48f847b1c30e390f0d6f7f887ce87dd7",
